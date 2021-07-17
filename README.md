@@ -5,4 +5,4 @@ This screensaver is written in AHK. It launches a random Arcade game after the a
 
 It's set up to playback INP files on Mame
 
-!(Announce Screen)[https://github.com/mrchrisster/ArcadeScreensaver/blob/main/photos/dkong-announce.jpg?raw=true]
+![Announce Screen](https://github.com/mrchrisster/ArcadeScreensaver/blob/main/photos/dkong-announce.jpg?raw=true)
